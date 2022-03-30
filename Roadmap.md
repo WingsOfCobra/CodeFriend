@@ -11,6 +11,8 @@
 
 **Roadmap**
 
+Changing the error messages and infos in a certain way
+
 !nick [name] - Change the nickname of the Bot (only Admins)
 
 !changename [name] - Changes the display name in the Discord Server (only for people who have got the nick permissions).
