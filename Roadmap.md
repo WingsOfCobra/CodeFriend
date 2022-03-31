@@ -11,16 +11,16 @@
 
 **Roadmap**
 
-Changing the error messages and infos in a certain way
+Changing the error messages and infos in a certain way -f
 
-!nick [name] - Change the nickname of the Bot (only Admins)
+!nick [name] -f - Change the nickname of the Bot (only Admins)
 
-!changename [name] - Changes the display name in the Discord Server (only for people who have got the nick permissions).
+!changename [name] -f - Changes the display name in the Discord Server (only for people who have got the nick permissions).
 
 !roadmap -f - Get urself the link for the roadmap Github.
 
-Welcome Message for new users in a spesific channel.
+Welcome Message for new users in a spesific channel. -p
 
-Changing the ricked Command so it just edits 1 message and then sends the gif (prevents spam timeout)
+Changing the ricked Command so it just edits 1 message and then sends the gif (prevents spam timeout) -f
 
 !sus command - funny meme
